@@ -1,0 +1,8 @@
+pyttsx3
+datetime
+SpeechRecognition
+pywhatkit
+gTTS==2.3.0
+playsound==1.3.0
+wikipedia 
+bs4
